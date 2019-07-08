@@ -79,6 +79,7 @@
             <version>1.2.47</version>
         </dependency>
 		<!--添加 oauth2 支持-->
+		<!-- TODO-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-oauth2</artifactId>
