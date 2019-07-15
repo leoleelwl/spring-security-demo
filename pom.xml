@@ -80,6 +80,7 @@
         </dependency>
 		<!--添加 oauth2 支持-->
 		<!-- TODO-->
+		<!-- 2019	-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-oauth2</artifactId>
